@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليالي الشوق في قلبي نار
+> طيفك في عيوني ليل ونهار
+> يا حبيبة الروح بين يديك
+> أنت قدري وكل المشوار
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
